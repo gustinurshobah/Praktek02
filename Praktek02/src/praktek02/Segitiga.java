@@ -4,6 +4,11 @@ package praktek02;
 public class Segitiga {
     double alas;
     double tinggi;
+
+    public Segitiga() {
+        alas=2;
+        tinggi=5;
+    }
     
     void cetakinfo(){
         System.out.println("alas : "+alas);
