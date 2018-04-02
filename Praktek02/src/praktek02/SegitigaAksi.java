@@ -10,6 +10,7 @@ public class SegitigaAksi {
         
         s1.cetakinfo();
         System.out.println("Luas Segitiga = "+s1.hitungluas());
+        s1.cetakluas();
     }
     
 }

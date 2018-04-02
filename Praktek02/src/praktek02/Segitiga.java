@@ -16,4 +16,8 @@ public class Segitiga {
         luas=1/2*alas*tinggi;
         return luas;
     }
+    
+    void cetakluas(){
+        System.out.println("Luasnya adalah: "+hitungluas());
+    }
 }
