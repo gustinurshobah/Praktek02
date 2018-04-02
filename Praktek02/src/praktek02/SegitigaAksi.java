@@ -7,6 +7,8 @@ public class SegitigaAksi {
         
         s1.alas = 2;
         s1.tinggi = 5;
+        
+        s1.cetakinfo();
     }
     
 }
