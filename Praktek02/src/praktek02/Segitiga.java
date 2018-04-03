@@ -9,6 +9,13 @@ public class Segitiga {
         alas=2;
         tinggi=5;
     }
+
+    public Segitiga(double alas, double tinggi) {
+        this.alas = alas;
+        this.tinggi = tinggi;
+    }
+    
+    
     
     void cetakinfo(){
         System.out.println("alas : "+alas);
